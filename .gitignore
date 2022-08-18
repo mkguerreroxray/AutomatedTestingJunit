@@ -1,0 +1,13 @@
+build/
+.gradle/
+.vscode/
+import-results-cloud.sh
+cloud_auth.json
+.classpath
+.project
+.settings
+target/
+**/*.class
+reports/*
+settings.xml
+.DS_Store
